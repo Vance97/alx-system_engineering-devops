@@ -97,6 +97,8 @@ The file hello will be in the working directory
 
 [103-Star_Wars](./103-Star_Wars) - Write a script that will play the StarWars IV episode in the terminal.
 
+## Credits
+
 
 > **Note**
 > that Vance Muchongo reserves authorship of this repository as of 01 February 2023.
