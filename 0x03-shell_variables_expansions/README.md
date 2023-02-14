@@ -1,3 +1,58 @@
+
+<h1 align="center">
+  <br>
+  <a href="#"><img src="https://images.squarespace-cdn.com/content/v1/5f064fad5065bf4b98603cbe/1470eb72-6bc8-44da-944d-cd43a2c9d162/ALX+PNG.png" alt="ALX" width="200"></a>
+  <br>
+  African Leadership X (ALX) 2023
+  <br>
+</h1>
+
+<h4 align="center">Digital Transformation is the next Industrial Revolution</h4>
+
+<p align="center">
+  <a href="#">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg"
+         alt="Gitter">
+  </a>
+  <a href="#">
+      <img src="https://forthebadge.com/images/badges/powered-by-electricity.svg">
+  </a>
+  <a href="#">
+    <img src="https://forthebadge.com/images/badges/no-ragrets.svg">
+  </a>
+</p>
+
+<h1 align="center">
+  <a href="#"><img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="200"></a>
+</h1>
+
+
+## About
+
+The files in this repository constitute a project in progress and as such, you are not allowed to contribute without the consent of the author. You may, however, fork, clone or download a copy of it and test it separately. Use the following commands to get started:
+
+```bash
+
+# Clone this repository
+$ git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/alx-system_engineering-devops.git
+
+# Update your git identity
+$ git config --global user.email "mail@example.com"
+$ git config --global user.name "username"
+
+# Go into repository
+$ cd alx-system_engineering-devops
+
+#The rest is history mate. Hack away!
+```
+
+> **Note**
+> that Vance Muchongo reserves authorship of this repository as of 01 February 2023.
+
+
+
+
+
 ## 0x03. Shell, init files, variabless and expansions
 
 [0-alias](./0-alias) - Create a script that creates an alias.
@@ -38,11 +93,12 @@ Your script file should contain maximum 64 characters
 [13-print_float](./13-print_float) - Write a script that prints a number with two decimal places.
 The number will be stored in the environment variable NUM.
 
-[14-decimal_to_hexadecimal](./14-decimal_to_hexadecimal) - Write a script that converts a number from base 10 to base 16.
+[100-decimal_to_hexadecimal](./14-decimal_to_hexadecimal) - Write a script that converts a number from base 10 to base 16.
 The number in base 10 is stored in the environment variable DECIMAL
 The script should display the number in base 16, followed by a new line
 
-[100-rot13](./101-rot13) - Write a script that encodes and decodes text using the rot13 encryption.
+[101-rot13](./101-rot13) - Write a script that encodes and decodes text using the rot13 encryption.
 
-[101-odd](./101-odd) - Write a script that prints every other line from the input, starting with the first line.
+[102-odd](./102-odd) - Write a script that prints every other line from the input, starting with the first line.
 
+[103-water_and_stir](./103-water_and_stir) - Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
