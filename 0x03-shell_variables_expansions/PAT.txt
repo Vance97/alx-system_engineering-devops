@@ -1,1 +1,0 @@
-PAT: root@1e3cc69de871:~# git clone https://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@github.com/Vance97/alx-system_engineering-devops.git
